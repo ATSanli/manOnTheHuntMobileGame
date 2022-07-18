@@ -1,1 +1,1 @@
-# manOnTheHunt
+# manOnTheHuntMobileGame
